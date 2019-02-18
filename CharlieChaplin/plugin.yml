@@ -1,0 +1,10 @@
+name: CharlieCaplinTheGreatDictatorSpeech
+author: Gober
+version: MessageToAllHumanity
+main: com.gmail.JyckoSianjaya.CharlieChaplinLegend.CharlieChaplin.MakeTheWorldBetter
+description: Charlie Chaplin is one of the best man alive.
+commands:
+  charliechaplin:
+      usage: /<command>
+      description: Will ressurect Charlie Chaplin
+      aliases: [charliec,cchaplin]
